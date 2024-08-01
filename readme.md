@@ -1,6 +1,6 @@
 # Talks
 
-> Talks with slides
+> Recorded talks
 
 ## Past talks
 
