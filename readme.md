@@ -1,6 +1,6 @@
 # Talks
 
-> Talks I did with slides
+> Talks with slides
 
 ## Past talks
 
